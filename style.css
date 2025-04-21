@@ -1,0 +1,22 @@
+#header{
+  font-size:20px;
+  font-family:italian black;
+  text-decoration:underline;
+  text-align:center;
+}
+.container{
+  background-color:tomato;
+  border:2px solid black;
+  padding:20px 30px 20px 40px;
+  margin:30px;
+}
+img{border-radius:10px;
+  
+}
+.table{
+  border:2px solid blue;
+  border-collapse:collapse;
+text-align: left;  
+}
+
+
